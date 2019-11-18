@@ -10,17 +10,7 @@ count += 1
 end
 
 def find_max_value(array)
-  count = 0
-  index = 1
-  while count < array.length do
-    if array[count] < array[index] do
-      array[index]
-    end
-    else if array[count] > array[index] do
-      array[count]
-    else if array[count] == array[index] do
-      puts "the maximum value of this arrays element is #{"
-    end
+ end
     
       
       # compare 2 values and retrun the greater one.
