@@ -28,3 +28,4 @@ def find_min_value(array)
   }
   X
 end
+end
