@@ -14,10 +14,8 @@ def find_max_value(array)
   array.length.times { |index|
   if array[index] > x
     x = array[index]
-    
-  
-    
-      
+  end
+  x 
       # compare 2 values and retrun the greater one.
       #increment both counter and index 
     
