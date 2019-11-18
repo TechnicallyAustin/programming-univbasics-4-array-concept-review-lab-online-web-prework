@@ -15,11 +15,8 @@ def find_max_value(array)
   if array[index] > x
     x = array[index]
   end
-  x 
-      # compare 2 values and retrun the greater one.
-      #increment both counter and index 
-    
-  # Add your solution here
+  }
+  x
 end 
 
 def find_min_value(array)
